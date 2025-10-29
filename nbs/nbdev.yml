@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "learn-nbdev"
+  site-url: "https://mettafore.github.io/learn-nbdev"
+  description: "learning nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/mettafore/learn-nbdev"

@@ -1,0 +1,10 @@
+[project]
+name="learn-nbdev"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python=">=3.9"
+dependencies = [
+    "jupyterlab-quarto>=0.3.5",
+    "nbdev>=2.4.6",
+]
