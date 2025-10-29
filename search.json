@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "learn-nbdev",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "learn-nbdev"
+    ]
+  },
+  {
+    "objectID": "index.html#developer-guide",
+    "href": "index.html#developer-guide",
+    "title": "learn-nbdev",
+    "section": "Developer Guide",
+    "text": "Developer Guide\nIf you are new to using nbdev here are some useful pointers to get you started.\n\nInstall learn_nbdev in Development mode\n# make sure learn_nbdev package is installed in development mode\n$ pip install -e .\n\n# make changes under nbs/ directory\n# ...\n\n# compile to have changes apply to learn_nbdev\n$ nbdev_prepare",
+    "crumbs": [
+      "learn-nbdev"
+    ]
+  },
+  {
+    "objectID": "index.html#usage",
+    "href": "index.html#usage",
+    "title": "learn-nbdev",
+    "section": "Usage",
+    "text": "Usage\n\nInstallation\nInstall latest from the GitHub repository:\n$ pip install git+https://github.com/mettafore/learn-nbdev.git\nor from conda\n$ conda install -c mettafore learn_nbdev\nor from pypi\n$ pip install learn_nbdev\n\n\nDocumentation\nDocumentation can be found hosted on this GitHub repository’s pages. Additionally you can find package manager specific guidelines on conda and pypi respectively.",
+    "crumbs": [
+      "learn-nbdev"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "learn-nbdev",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2\n\n\n\nfrom learn_nbdev.cool_lib import foo, go_duckies_yourself\n\n\ngo_duckies_yourself(\"morris\")\n\n'go duckies yourself morris'\n\n\n\nfoo()\n\nfoo",
+    "crumbs": [
+      "learn-nbdev"
+    ]
+  },
+  {
+    "objectID": "cool_lib.html",
+    "href": "cool_lib.html",
+    "title": "cool library",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()\n\n\nsource\n\n\ngo_duckies_yourself\n\n go_duckies_yourself (to)\n\nTells someone to go duckies themselves.\n\ngo_duckies_yourself(\"luvsuneja\")\n\n'go duckies yourself luvsuneja'\n\n\n\nassert go_duckies_yourself(\"luvsuneja\") == \"go duckies yourself luvsuneja\"\n\n\nfrom fastcore.test import *\n\n\ntest_eq(go_duckies_yourself(\"luvsuneja\"), \"go duckies yourself luvsuneja\")\n\n\nfrom IPython.display import display,SVG\n\n\ndisplay(SVG('&lt;svg height=\"100\" xmlns=\"http://www.w3.org/2000/svg\"&gt;&lt;circle cx=\"50\" cy=\"50\" r=\"40\"/&gt;&lt;/svg&gt;'))",
+    "crumbs": [
+      "cool library"
+    ]
+  }
+]
