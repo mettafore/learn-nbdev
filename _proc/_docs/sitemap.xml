@@ -1,3 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://mettafore.github.io/learn-nbdev/index.html</loc>
+    <lastmod>2025-10-29T16:51:19.786Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mettafore.github.io/learn-nbdev/core.html</loc>
+    <lastmod>2025-10-29T11:24:04.269Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mettafore.github.io/learn-nbdev/cool_lib.html</loc>
+    <lastmod>2025-10-29T16:43:08.678Z</lastmod>
+  </url>
 </urlset>

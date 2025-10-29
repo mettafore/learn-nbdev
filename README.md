@@ -65,3 +65,19 @@ Fill me in please! Don’t forget code examples:
 ```
 
     2
+
+``` python
+from learn_nbdev.cool_lib import foo, go_duckies_yourself
+```
+
+``` python
+go_duckies_yourself("morris")
+```
+
+    'go duckies yourself morris'
+
+``` python
+foo()
+```
+
+    foo

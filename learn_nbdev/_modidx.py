@@ -5,4 +5,7 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://mettafore.github.io',
                 'git_url': 'https://github.com/mettafore/learn-nbdev',
                 'lib_path': 'learn_nbdev'},
-  'syms': {'learn_nbdev.core': {'learn_nbdev.core.foo': ('core.html#foo', 'learn_nbdev/core.py')}}}
+  'syms': { 'learn_nbdev.cool_lib': { 'learn_nbdev.cool_lib.foo': ('cool_lib.html#foo', 'learn_nbdev/cool_lib.py'),
+                                      'learn_nbdev.cool_lib.go_duckies_yourself': ( 'cool_lib.html#go_duckies_yourself',
+                                                                                    'learn_nbdev/cool_lib.py')},
+            'learn_nbdev.core': {'learn_nbdev.core.foo': ('cool_lib.html#foo', 'learn_nbdev/core.py')}}}
